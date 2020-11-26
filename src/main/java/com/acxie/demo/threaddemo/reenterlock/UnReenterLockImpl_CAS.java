@@ -1,4 +1,4 @@
-package com.acxie.demo.threadtest.reenterlock;
+package com.acxie.demo.threaddemo.reenterlock;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.acxie.demo.threadtest;
+package com.acxie.demo.threaddemo;
 
 /**
  * @description:使用Jion关键字、使用Lock

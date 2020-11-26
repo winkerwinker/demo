@@ -1,4 +1,4 @@
-package com.acxie.demo.threadtest.threadorder;
+package com.acxie.demo.threaddemo.threadorder;
 
 /**
  * @description:让线程按顺序执行8种方法
@@ -8,9 +8,6 @@ package com.acxie.demo.threadtest.threadorder;
 
 
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 
 public class ThreadOrder_CountDownLatch {

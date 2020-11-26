@@ -1,6 +1,4 @@
-package com.acxie.demo.threadtest.reenterlock;
-
-import org.junit.Test;
+package com.acxie.demo.threaddemo.reenterlock;
 
 /**
  * @description:

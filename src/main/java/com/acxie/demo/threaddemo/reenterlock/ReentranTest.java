@@ -1,6 +1,5 @@
-package com.acxie.demo.threadtest.reenterlock;
+package com.acxie.demo.threaddemo.reenterlock;
 
-import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**

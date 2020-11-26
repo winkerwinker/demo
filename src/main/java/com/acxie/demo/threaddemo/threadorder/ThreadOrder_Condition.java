@@ -1,4 +1,4 @@
-package com.acxie.demo.threadtest.threadorder;
+package com.acxie.demo.threaddemo.threadorder;
 
 /**
  * @description:让线程按顺序执行8种方法
@@ -7,10 +7,6 @@ package com.acxie.demo.threadtest.threadorder;
  */
 
 
-import jdk.internal.org.objectweb.asm.util.TraceAnnotationVisitor;
-
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

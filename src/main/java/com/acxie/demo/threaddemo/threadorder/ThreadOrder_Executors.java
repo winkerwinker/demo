@@ -1,4 +1,4 @@
-package com.acxie.demo.threadtest.threadorder;
+package com.acxie.demo.threaddemo.threadorder;
 
 /**
  * @description:让线程按顺序执行8种方法
