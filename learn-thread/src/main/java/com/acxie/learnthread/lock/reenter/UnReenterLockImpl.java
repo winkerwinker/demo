@@ -1,4 +1,4 @@
-package com.acxie.demo.threaddemo.reenterlock;
+package com.acxie.learnthread.lock.reenter;
 
 /**
  * @description:

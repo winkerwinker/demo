@@ -1,4 +1,4 @@
-package com.acxie.demo.threaddemo.threadorder;
+package com.acxie.learnthread.order;
 
 /**
  * @description:让线程按顺序执行8种方法
