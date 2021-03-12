@@ -21,6 +21,7 @@
         <module>leetcode</module>
         <module>log</module>
         <module>net</module>
+        <module>learn-guava</module>
     </modules>
 
 
