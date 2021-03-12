@@ -16,7 +16,7 @@
     <modules>
         <module>common</module>
         <module>design-mode</module>
-        <module>laern-jdk</module>
+        <module>learn-jdk</module>
         <module>learn-thread</module>
         <module>leetcode</module>
         <module>log</module>
