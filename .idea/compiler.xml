@@ -6,16 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
+        <module name="common" />
+        <module name="log" />
+        <module name="learn-jdk" />
+        <module name="learn-thread" />
+        <module name="learn-guava" />
+        <module name="leetcode" />
+        <module name="net" />
+        <module name="design-mode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="design-mode" target="1.8" />
+      <module name="laearn-jdk" target="1.8" />
+      <module name="learn-guava" target="1.8" />
+      <module name="learn-jdk" target="1.8" />
+      <module name="learn-thread" target="1.8" />
+      <module name="leetcode" target="1.8" />
+      <module name="log" target="1.8" />
+      <module name="net" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo" options="-parameters" />
+      <module name="demo" options="" />
+      <module name="learn-guava" options="" />
     </option>
   </component>
 </project>

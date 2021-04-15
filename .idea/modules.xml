@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-mode/design-mode.iml" filepath="$PROJECT_DIR$/design-mode/design-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-guava/learn-guava.iml" filepath="$PROJECT_DIR$/learn-guava/learn-guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-jdk/learn-jdk.iml" filepath="$PROJECT_DIR$/learn-jdk/learn-jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-thread/learn-thread.iml" filepath="$PROJECT_DIR$/learn-thread/learn-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log/log.iml" filepath="$PROJECT_DIR$/log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net/net.iml" filepath="$PROJECT_DIR$/net/net.iml" />
     </modules>
   </component>
 </project>
